@@ -1,0 +1,1277 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "C:\\Users\\user\\NewProject\\assets\\scenes.meta": {
+      "time": 1740216802079.4824
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scenes": {
+      "time": 1740216802066.616,
+      "uuid": "06de40ed-6803-4dd7-94e7-0b218c5c406f"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scripts.meta": {
+      "time": 1740216821979.8164
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scripts": {
+      "time": 1740217751170.0464,
+      "uuid": "3cf596e2-bc77-4a8a-9491-0e5d96a8905f"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\pefabs.meta": {
+      "time": 1740216844814.8806
+    },
+    "C:\\Users\\user\\NewProject\\assets\\pefabs": {
+      "time": 1740216844800.771,
+      "uuid": "44f7c561-f3a5-459c-b406-f3fe67dd482b"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\audio.meta": {
+      "time": 1740216853244.6443
+    },
+    "C:\\Users\\user\\NewProject\\assets\\audio": {
+      "time": 1740216853232.0742,
+      "uuid": "40efb877-26ac-41c6-bff6-783d7aad3f23"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites.meta": {
+      "time": 1740216921392.769
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs.meta": {
+      "time": 1740216921394.756
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs.meta": {
+      "time": 1740216921397.783
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss.meta": {
+      "time": 1740216921399.7803
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player.meta": {
+      "time": 1740216921400.776
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites": {
+      "time": 1740222059749.282,
+      "uuid": "66b11369-6c86-4120-8ae5-2cfab332552a"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs": {
+      "time": 1740216921274.4702,
+      "uuid": "fa19f0d0-c0b4-42bd-8164-b549467f7c6a"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs": {
+      "time": 1740216921298.567,
+      "uuid": "37515fc4-e6c4-4820-9fbd-f160c91dd5d6"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss": {
+      "time": 1740216921348.4033,
+      "uuid": "a361cc11-c2bf-4e3b-aa55-5b7bde43e25c"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player": {
+      "time": 1740223796427.015,
+      "uuid": "1172a8a2-b8c9-4b38-b0ea-91721b805c03"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk explode.json.meta": {
+      "time": 1740216921471.7554
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk explode.json": {
+      "time": 1740104318859.2778,
+      "uuid": "da4c0836-a2f3-4ae5-b4d3-8c8cd1363882"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk Bomb.json.meta": {
+      "time": 1740216921473.749
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk Bomb.json": {
+      "time": 1740104266939.8762,
+      "uuid": "2ea19b4f-f80e-421c-b846-d98a1b1d4edb"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\guns.json.meta": {
+      "time": 1740216921469.4944
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\guns.json": {
+      "time": 1740058734993.066,
+      "uuid": "c07a65ba-d7d7-48c0-ac36-feb0eeaf5c86"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_death.json.meta": {
+      "time": 1740216921517.8938
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_death.json": {
+      "time": 1740016811925.157,
+      "uuid": "eb1c5449-3a7b-427b-aff4-03708b1ed78e"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_run.json.meta": {
+      "time": 1740216921571.0437
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_run.json": {
+      "time": 1740016841175.9204,
+      "uuid": "02f7d4e0-6b85-41d2-a8b9-9b34a7073e82"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk Bomb.png.meta": {
+      "time": 1740216921566.8042
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk Bomb.png": {
+      "time": 1740104266938.3513,
+      "uuid": "ea232b21-9fd0-45d9-b046-8463cafe1565"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk explode.png.meta": {
+      "time": 1740216921601.4912
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk explode.png": {
+      "time": 1740104318842.0781,
+      "uuid": "3f06ba47-7add-477f-9d70-6c9bc51d193f"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\guns.png.meta": {
+      "time": 1740216921626.432
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\guns.png": {
+      "time": 1740058734977.413,
+      "uuid": "57232d48-bef0-41ad-8749-9a3fac9957e5"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_run_up.json.meta": {
+      "time": 1740216921613.4548
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_run_up.json": {
+      "time": 1740016871027.0479,
+      "uuid": "fef0ba94-bb56-4519-a09f-3c9a2e7bad66"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_death.png.meta": {
+      "time": 1740216921644.6257
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_death.png": {
+      "time": 1740016811910.6567,
+      "uuid": "8bfdb586-a06e-49fa-9076-dc3e35b61733"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run.json.meta": {
+      "time": 1740216921678.042
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run.json": {
+      "time": 1740014440831.1907,
+      "uuid": "20edb767-9220-4f3a-a003-980624694092"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_death.json.meta": {
+      "time": 1740216921691.9153
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_death.json": {
+      "time": 1740014728330.2776,
+      "uuid": "b7b48e7a-8ba3-4ceb-b7cb-143066da2d2b"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_run.png.meta": {
+      "time": 1740216921730.0168
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_run.png": {
+      "time": 1740016841162.282,
+      "uuid": "71e46c90-08b2-4cd0-940d-42625b59cc88"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_down.json.meta": {
+      "time": 1740216921723.0022
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_down.json": {
+      "time": 1740014484730.777,
+      "uuid": "b726f2b2-8ae7-4231-80db-0055cdca7bac"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_run_up.png.meta": {
+      "time": 1740216921752.9507
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\2legs\\2legs_run_up.png": {
+      "time": 1740016871013.2295,
+      "uuid": "2959a415-1cc9-47bd-ab5f-fb0156266203"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run.png.meta": {
+      "time": 1740216921758.113
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run.png": {
+      "time": 1740014440812.4841,
+      "uuid": "e4181a99-5c89-457b-afc8-e17dc87ce264"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_up.json.meta": {
+      "time": 1740216921781.8403
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_up.json": {
+      "time": 1740014460452.9631,
+      "uuid": "93942829-248c-444e-abf7-25fadb596001"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_death.png.meta": {
+      "time": 1740216921801.761
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_death.png": {
+      "time": 1740014728329.2744,
+      "uuid": "920ad19e-ab19-4189-9375-22e10cf52331"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper death.json.meta": {
+      "time": 1740216921803.1487
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper death.json": {
+      "time": 1740105307188.5203,
+      "uuid": "b6cfbfbc-1a29-4dde-907f-d944eb326da6"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_down.json.meta": {
+      "time": 1740216921887.1423
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_down.json": {
+      "time": 1740105293434.8965,
+      "uuid": "ea40c2c5-717c-428d-b1b9-387f80844d34"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_down.png.meta": {
+      "time": 1740216921905.5923
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_down.png": {
+      "time": 1740014484714.3118,
+      "uuid": "d1334f2f-0f95-4e77-85e3-463425739f75"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_up.png.meta": {
+      "time": 1740216921944.4343
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\4legs\\4legs_run_up.png": {
+      "time": 1740014460437.8096,
+      "uuid": "9e9224ac-285c-46d9-bab6-8964444dbaa6"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_up.json.meta": {
+      "time": 1740216921923.961
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_up.json": {
+      "time": 1740105149403.2227,
+      "uuid": "f928f1b6-61c0-43cd-bd2e-ffe558545ac8"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper indicator.json.meta": {
+      "time": 1740216921985.2253
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper indicator.json": {
+      "time": 1740105227521.9712,
+      "uuid": "addd3463-ed05-46db-a361-16b16c0ca835"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper death.png.meta": {
+      "time": 1740216922001.97
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper death.png": {
+      "time": 1740105307187.5205,
+      "uuid": "24f20c08-7b0d-495d-b49d-52f6b96b9d7d"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper jump.json.meta": {
+      "time": 1740216922080.6895
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper jump.json": {
+      "time": 1740105243970.735,
+      "uuid": "6beb0ac2-ed3f-4ac6-a13c-49395bc57f87"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_down.png.meta": {
+      "time": 1740216922005.9705
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_down.png": {
+      "time": 1740105293420.0593,
+      "uuid": "de604edd-af79-43f4-b728-57bdbe8d8d9a"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper run_down.json.meta": {
+      "time": 1740216922089.66
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper run_down.json": {
+      "time": 1740105171544.3557,
+      "uuid": "6dbdc05c-acad-4d9a-b7d4-325becd1a5cc"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_up.png.meta": {
+      "time": 1740216922194.0142
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_up.png": {
+      "time": 1740105149402.2263,
+      "uuid": "1bd1d994-4da1-49db-b1b3-62bd5bb4ee37"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper indicator.png.meta": {
+      "time": 1740216922239.5618
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper indicator.png": {
+      "time": 1740105227520.9756,
+      "uuid": "87306d95-f9f1-435d-9d22-d5dff608629a"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper run_up.json.meta": {
+      "time": 1740216922195.006
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper run_up.json": {
+      "time": 1740105127562.5508,
+      "uuid": "aadad50e-f859-40d6-9927-2f3ea62eafdf"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper jump.png.meta": {
+      "time": 1740216922287.4392
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper jump.png": {
+      "time": 1740105243954.7332,
+      "uuid": "59ba1d4f-9360-461c-bcc3-b40f9d58c83b"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper slam.json.meta": {
+      "time": 1740216922237.5684
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper slam.json": {
+      "time": 1740105208348.0596,
+      "uuid": "a590b4c3-34ca-4923-9353-c77867a7370d"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper Throw_down.json.meta": {
+      "time": 1740216922317.4597
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper Throw_down.json": {
+      "time": 1740105271155.9714,
+      "uuid": "e8991854-2df1-42ef-ad70-8b2fbc7c7e81"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper run_down.png.meta": {
+      "time": 1740216922335.5874
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper run_down.png": {
+      "time": 1740105171542.0857,
+      "uuid": "da4c0a49-279a-41c6-8b49-d03a95f607fd"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper throw_up.json.meta": {
+      "time": 1740216922371.8013
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper throw_up.json": {
+      "time": 1740105072413.702,
+      "uuid": "ae035927-8f18-457e-ac0e-a91529cb22ba"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper run_up.png.meta": {
+      "time": 1740216922374.5232
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper run_up.png": {
+      "time": 1740105127549.4827,
+      "uuid": "57a1848a-5102-412f-bf85-6a044b6e36ef"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_death.json.meta": {
+      "time": 1740216922421.265
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_death.json": {
+      "time": 1740052356073.2422,
+      "uuid": "a1bad44a-4228-4cb6-8e23-ce21ef195a21"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper slam.png.meta": {
+      "time": 1740216922444.7986
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper slam.png": {
+      "time": 1740105208334.3723,
+      "uuid": "63c95935-c1df-4f24-9faf-9ee9d9d9fa77"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_down.json.meta": {
+      "time": 1740216922463.6245
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_down.json": {
+      "time": 1740052222767.2637,
+      "uuid": "949f97c4-e4d6-45f4-a667-961e072cf6d0"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper Throw_down.png.meta": {
+      "time": 1740216922449.1575
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper Throw_down.png": {
+      "time": 1740105271141.6484,
+      "uuid": "3f8c5f03-ab1e-42d7-84df-8f7b826031cc"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper throw_up.png.meta": {
+      "time": 1740216922484.556
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\Dusk boss\\Dusk Jumper throw_up.png": {
+      "time": 1740105072399.3467,
+      "uuid": "293c1b14-363e-4819-8869-d674ecbd3760"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_hit.json.meta": {
+      "time": 1740216922473.5923
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_hit.json": {
+      "time": 1740052327055.7085,
+      "uuid": "d121fe38-b3a2-45cc-8364-1a1cba0c9774"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_death.png.meta": {
+      "time": 1740216922509.4717
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_death.png": {
+      "time": 1740052356071.0537,
+      "uuid": "3bbc1aea-23c3-4f71-8203-9befc11b2f08"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_idel.json.meta": {
+      "time": 1740216922498.5085
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_idel.json": {
+      "time": 1740052262822.4834,
+      "uuid": "4023b1a4-a258-42f0-827b-c252ca72d1ae"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_move.json.meta": {
+      "time": 1740216922524.5012
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_move.json": {
+      "time": 1740052189102.1472,
+      "uuid": "6c81b69f-46c5-4766-80ab-ec76769eb706"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_down.png.meta": {
+      "time": 1740216922546.4272
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_down.png": {
+      "time": 1740052222765.175,
+      "uuid": "b59da4c0-0604-4134-8c0e-398f765444c5"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_up.json.meta": {
+      "time": 1740216922552.4111
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_up.json": {
+      "time": 1740052291409.0178,
+      "uuid": "e3a3fee2-0060-4288-b444-17ef38926263"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_hit.png.meta": {
+      "time": 1740216922558.3901
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_hit.png": {
+      "time": 1740052327053.594,
+      "uuid": "88081e1f-331a-4d10-b218-08738847169d"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_idel.png.meta": {
+      "time": 1740222063741.8652
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_idel.png": {
+      "time": 1740052262821.2292,
+      "uuid": "15e78c3b-e386-4089-a5c2-71ba5279ecea"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_move.png.meta": {
+      "time": 1740216922577.8357
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_move.png": {
+      "time": 1740052189087.0122,
+      "uuid": "74d6a377-37c2-45ee-a36e-4670be1e75fc"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_up.png.meta": {
+      "time": 1740216922603.1472
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Player_up.png": {
+      "time": 1740052291395.469,
+      "uuid": "ec45a93b-401c-412b-8492-d72fcbb794f8"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scripts\\GameState.ts.meta": {
+      "time": 1740217411911.738
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scripts\\GameState.ts": {
+      "time": 1740217433826.999,
+      "uuid": "b1533de1-12c1-4f0c-8a17-8fc5ae485d26"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scripts\\GameManager.ts.meta": {
+      "time": 1740217720088.299
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scripts\\GameManager.ts": {
+      "time": 1740217736342.9028,
+      "uuid": "3a2c52d2-7752-42bd-967c-204543200262"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scripts\\PlayerController.ts.meta": {
+      "time": 1740217751182.0764
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scripts\\PlayerController.ts": {
+      "time": 1740218360946.2368,
+      "uuid": "2db80b0b-9443-46a9-9287-7d2f495a7fb0"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\animation.meta": {
+      "time": 1740218561419.847
+    },
+    "C:\\Users\\user\\NewProject\\assets\\animation\\player_idle.anim.meta": {
+      "time": 1740218561448.5398
+    },
+    "C:\\Users\\user\\NewProject\\assets\\animation": {
+      "time": 1740222843094.0442,
+      "uuid": "e015112b-02ac-4489-97be-1bc8e5a5d602"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\animation\\player_idle.anim": {
+      "time": 1740221707365.281,
+      "uuid": "904588bd-4ecf-46a3-a97e-49f44939ca6d"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scene.scene": {
+      "time": 1740220213172.0083,
+      "uuid": "fcc500ed-d194-48ba-ab3c-7649ed9d5e85"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\scene.scene.meta": {
+      "time": 1740219815527.81
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\auto-atlas.pac.meta": {
+      "time": 1740222059770.743
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\auto-atlas.pac": {
+      "time": 1740222059746.972,
+      "uuid": "89a47609-7333-4b3b-887b-b7e5eab66e61"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\animation\\animation.anim.meta": {
+      "time": 1740222843154.974
+    },
+    "C:\\Users\\user\\NewProject\\assets\\animation\\animation.anim": {
+      "time": 1740223332096.9102,
+      "uuid": "c4d94c95-d7b0-42ea-b7bd-e657210374a4"
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Indicator Sprite Sheet 21x10.png.meta": {
+      "time": 1740223838546.748
+    },
+    "C:\\Users\\user\\NewProject\\assets\\sprites\\player\\Indicator Sprite Sheet 21x10.png": {
+      "time": 1740104192610.104,
+      "uuid": "47d85baa-e6e3-454b-bac2-5861936695f0"
+    },
+    "C:\\Users\\user\\poker\\assets\\animation": {
+      "time": 1740222843094.0442,
+      "uuid": "e015112b-02ac-4489-97be-1bc8e5a5d602"
+    },
+    "C:\\Users\\user\\poker\\assets\\audio": {
+      "time": 1740216853232.0742,
+      "uuid": "40efb877-26ac-41c6-bff6-783d7aad3f23"
+    },
+    "C:\\Users\\user\\poker\\assets\\pefabs": {
+      "time": 1740216844800.771,
+      "uuid": "44f7c561-f3a5-459c-b406-f3fe67dd482b"
+    },
+    "C:\\Users\\user\\poker\\assets\\scenes": {
+      "time": 1740216802066.616,
+      "uuid": "06de40ed-6803-4dd7-94e7-0b218c5c406f"
+    },
+    "C:\\Users\\user\\poker\\assets\\scripts": {
+      "time": 1740217751170.0464,
+      "uuid": "3cf596e2-bc77-4a8a-9491-0e5d96a8905f"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites": {
+      "time": 1740222059749.282,
+      "uuid": "66b11369-6c86-4120-8ae5-2cfab332552a"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs": {
+      "time": 1740216921274.4702,
+      "uuid": "fa19f0d0-c0b4-42bd-8164-b549467f7c6a"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs": {
+      "time": 1740216921298.567,
+      "uuid": "37515fc4-e6c4-4820-9fbd-f160c91dd5d6"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss": {
+      "time": 1740216921348.4033,
+      "uuid": "a361cc11-c2bf-4e3b-aa55-5b7bde43e25c"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player": {
+      "time": 1740223796427.015,
+      "uuid": "1172a8a2-b8c9-4b38-b0ea-91721b805c03"
+    },
+    "C:\\Users\\user\\poker\\assets\\scripts\\GameManager.ts": {
+      "time": 1740217736342.9028,
+      "uuid": "3a2c52d2-7752-42bd-967c-204543200262"
+    },
+    "C:\\Users\\user\\poker\\assets\\scripts\\GameState.ts": {
+      "time": 1740217433826.999,
+      "uuid": "b1533de1-12c1-4f0c-8a17-8fc5ae485d26"
+    },
+    "C:\\Users\\user\\poker\\assets\\scripts\\PlayerController.ts": {
+      "time": 1740218360946.2368,
+      "uuid": "2db80b0b-9443-46a9-9287-7d2f495a7fb0"
+    },
+    "C:\\Users\\user\\poker\\assets\\animation.meta": {
+      "time": 1740218561419.847
+    },
+    "C:\\Users\\user\\poker\\assets\\audio.meta": {
+      "time": 1740216853244.6443
+    },
+    "C:\\Users\\user\\poker\\assets\\pefabs.meta": {
+      "time": 1740216844814.8806
+    },
+    "C:\\Users\\user\\poker\\assets\\scenes.meta": {
+      "time": 1740216802079.4824
+    },
+    "C:\\Users\\user\\poker\\assets\\scripts.meta": {
+      "time": 1740216821979.8164
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites.meta": {
+      "time": 1740216921392.769
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs.meta": {
+      "time": 1740216921394.756
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs.meta": {
+      "time": 1740216921397.783
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss.meta": {
+      "time": 1740216921399.7803
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player.meta": {
+      "time": 1740216921400.776
+    },
+    "C:\\Users\\user\\poker\\assets\\scripts\\GameManager.ts.meta": {
+      "time": 1740217720088.299
+    },
+    "C:\\Users\\user\\poker\\assets\\scripts\\GameState.ts.meta": {
+      "time": 1740217411911.738
+    },
+    "C:\\Users\\user\\poker\\assets\\scripts\\PlayerController.ts.meta": {
+      "time": 1740217751182.0764
+    },
+    "C:\\Users\\user\\poker\\assets\\scene.scene": {
+      "time": 1740220213172.0083,
+      "uuid": "fcc500ed-d194-48ba-ab3c-7649ed9d5e85"
+    },
+    "C:\\Users\\user\\poker\\assets\\animation\\animation.anim": {
+      "time": 1740223332096.9102,
+      "uuid": "c4d94c95-d7b0-42ea-b7bd-e657210374a4"
+    },
+    "C:\\Users\\user\\poker\\assets\\animation\\player_idle.anim": {
+      "time": 1740221707365.281,
+      "uuid": "904588bd-4ecf-46a3-a97e-49f44939ca6d"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\auto-atlas.pac": {
+      "time": 1740222059746.972,
+      "uuid": "89a47609-7333-4b3b-887b-b7e5eab66e61"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk Bomb.json": {
+      "time": 1740104266939.8762,
+      "uuid": "2ea19b4f-f80e-421c-b846-d98a1b1d4edb"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk Bomb.png": {
+      "time": 1740104266938.3513,
+      "uuid": "ea232b21-9fd0-45d9-b046-8463cafe1565"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk explode.json": {
+      "time": 1740104318859.2778,
+      "uuid": "da4c0836-a2f3-4ae5-b4d3-8c8cd1363882"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk explode.png": {
+      "time": 1740104318842.0781,
+      "uuid": "3f06ba47-7add-477f-9d70-6c9bc51d193f"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\guns.json": {
+      "time": 1740058734993.066,
+      "uuid": "c07a65ba-d7d7-48c0-ac36-feb0eeaf5c86"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\guns.png": {
+      "time": 1740058734977.413,
+      "uuid": "57232d48-bef0-41ad-8749-9a3fac9957e5"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_death.json": {
+      "time": 1740016811925.157,
+      "uuid": "eb1c5449-3a7b-427b-aff4-03708b1ed78e"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_death.png": {
+      "time": 1740016811910.6567,
+      "uuid": "8bfdb586-a06e-49fa-9076-dc3e35b61733"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_run.json": {
+      "time": 1740016841175.9204,
+      "uuid": "02f7d4e0-6b85-41d2-a8b9-9b34a7073e82"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_run.png": {
+      "time": 1740016841162.282,
+      "uuid": "71e46c90-08b2-4cd0-940d-42625b59cc88"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_run_up.json": {
+      "time": 1740016871027.0479,
+      "uuid": "fef0ba94-bb56-4519-a09f-3c9a2e7bad66"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_run_up.png": {
+      "time": 1740016871013.2295,
+      "uuid": "2959a415-1cc9-47bd-ab5f-fb0156266203"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run.json": {
+      "time": 1740014440831.1907,
+      "uuid": "20edb767-9220-4f3a-a003-980624694092"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run.png": {
+      "time": 1740014440812.4841,
+      "uuid": "e4181a99-5c89-457b-afc8-e17dc87ce264"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_death.json": {
+      "time": 1740014728330.2776,
+      "uuid": "b7b48e7a-8ba3-4ceb-b7cb-143066da2d2b"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_death.png": {
+      "time": 1740014728329.2744,
+      "uuid": "920ad19e-ab19-4189-9375-22e10cf52331"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_down.json": {
+      "time": 1740014484730.777,
+      "uuid": "b726f2b2-8ae7-4231-80db-0055cdca7bac"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_down.png": {
+      "time": 1740014484714.3118,
+      "uuid": "d1334f2f-0f95-4e77-85e3-463425739f75"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_up.json": {
+      "time": 1740014460452.9631,
+      "uuid": "93942829-248c-444e-abf7-25fadb596001"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_up.png": {
+      "time": 1740014460437.8096,
+      "uuid": "9e9224ac-285c-46d9-bab6-8964444dbaa6"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper death.json": {
+      "time": 1740105307188.5203,
+      "uuid": "b6cfbfbc-1a29-4dde-907f-d944eb326da6"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper death.png": {
+      "time": 1740105307187.5205,
+      "uuid": "24f20c08-7b0d-495d-b49d-52f6b96b9d7d"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_down.json": {
+      "time": 1740105293434.8965,
+      "uuid": "ea40c2c5-717c-428d-b1b9-387f80844d34"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_down.png": {
+      "time": 1740105293420.0593,
+      "uuid": "de604edd-af79-43f4-b728-57bdbe8d8d9a"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_up.json": {
+      "time": 1740105149403.2227,
+      "uuid": "f928f1b6-61c0-43cd-bd2e-ffe558545ac8"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_up.png": {
+      "time": 1740105149402.2263,
+      "uuid": "1bd1d994-4da1-49db-b1b3-62bd5bb4ee37"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper indicator.json": {
+      "time": 1740105227521.9712,
+      "uuid": "addd3463-ed05-46db-a361-16b16c0ca835"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper indicator.png": {
+      "time": 1740105227520.9756,
+      "uuid": "87306d95-f9f1-435d-9d22-d5dff608629a"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper jump.json": {
+      "time": 1740105243970.735,
+      "uuid": "6beb0ac2-ed3f-4ac6-a13c-49395bc57f87"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper jump.png": {
+      "time": 1740105243954.7332,
+      "uuid": "59ba1d4f-9360-461c-bcc3-b40f9d58c83b"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper run_down.json": {
+      "time": 1740105171544.3557,
+      "uuid": "6dbdc05c-acad-4d9a-b7d4-325becd1a5cc"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper run_down.png": {
+      "time": 1740105171542.0857,
+      "uuid": "da4c0a49-279a-41c6-8b49-d03a95f607fd"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper run_up.json": {
+      "time": 1740105127562.5508,
+      "uuid": "aadad50e-f859-40d6-9927-2f3ea62eafdf"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper run_up.png": {
+      "time": 1740105127549.4827,
+      "uuid": "57a1848a-5102-412f-bf85-6a044b6e36ef"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper slam.json": {
+      "time": 1740105208348.0596,
+      "uuid": "a590b4c3-34ca-4923-9353-c77867a7370d"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper slam.png": {
+      "time": 1740105208334.3723,
+      "uuid": "63c95935-c1df-4f24-9faf-9ee9d9d9fa77"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper Throw_down.json": {
+      "time": 1740105271155.9714,
+      "uuid": "e8991854-2df1-42ef-ad70-8b2fbc7c7e81"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper Throw_down.png": {
+      "time": 1740105271141.6484,
+      "uuid": "3f8c5f03-ab1e-42d7-84df-8f7b826031cc"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper throw_up.json": {
+      "time": 1740105072413.702,
+      "uuid": "ae035927-8f18-457e-ac0e-a91529cb22ba"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper throw_up.png": {
+      "time": 1740105072399.3467,
+      "uuid": "293c1b14-363e-4819-8869-d674ecbd3760"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Indicator Sprite Sheet 21x10.png": {
+      "time": 1740104192610.104,
+      "uuid": "47d85baa-e6e3-454b-bac2-5861936695f0"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_death.json": {
+      "time": 1740052356073.2422,
+      "uuid": "a1bad44a-4228-4cb6-8e23-ce21ef195a21"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_death.png": {
+      "time": 1740052356071.0537,
+      "uuid": "3bbc1aea-23c3-4f71-8203-9befc11b2f08"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_down.json": {
+      "time": 1740052222767.2637,
+      "uuid": "949f97c4-e4d6-45f4-a667-961e072cf6d0"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_down.png": {
+      "time": 1740052222765.175,
+      "uuid": "b59da4c0-0604-4134-8c0e-398f765444c5"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_hit.json": {
+      "time": 1740052327055.7085,
+      "uuid": "d121fe38-b3a2-45cc-8364-1a1cba0c9774"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_hit.png": {
+      "time": 1740052327053.594,
+      "uuid": "88081e1f-331a-4d10-b218-08738847169d"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_idel.json": {
+      "time": 1740052262822.4834,
+      "uuid": "4023b1a4-a258-42f0-827b-c252ca72d1ae"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_idel.png": {
+      "time": 1740052262821.2292,
+      "uuid": "15e78c3b-e386-4089-a5c2-71ba5279ecea"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_move.json": {
+      "time": 1740052189102.1472,
+      "uuid": "6c81b69f-46c5-4766-80ab-ec76769eb706"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_move.png": {
+      "time": 1740052189087.0122,
+      "uuid": "74d6a377-37c2-45ee-a36e-4670be1e75fc"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_up.json": {
+      "time": 1740052291409.0178,
+      "uuid": "e3a3fee2-0060-4288-b444-17ef38926263"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_up.png": {
+      "time": 1740052291395.469,
+      "uuid": "ec45a93b-401c-412b-8492-d72fcbb794f8"
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\auto-atlas.pac.meta": {
+      "time": 1740222059770.743
+    },
+    "C:\\Users\\user\\poker\\assets\\animation\\animation.anim.meta": {
+      "time": 1740222843154.974
+    },
+    "C:\\Users\\user\\poker\\assets\\animation\\player_idle.anim.meta": {
+      "time": 1740218561448.5398
+    },
+    "C:\\Users\\user\\poker\\assets\\scene.scene.meta": {
+      "time": 1740219815527.81
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk Bomb.json.meta": {
+      "time": 1740216921473.749
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\guns.json.meta": {
+      "time": 1740216921469.4944
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk explode.json.meta": {
+      "time": 1740216921471.7554
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk explode.png.meta": {
+      "time": 1740216921601.4912
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk Bomb.png.meta": {
+      "time": 1740216921566.8042
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_death.json.meta": {
+      "time": 1740216921517.8938
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\guns.png.meta": {
+      "time": 1740216921626.432
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_run_up.json.meta": {
+      "time": 1740216921613.4548
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_run.json.meta": {
+      "time": 1740216921571.0437
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_death.png.meta": {
+      "time": 1740216921644.6257
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run.json.meta": {
+      "time": 1740216921678.042
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_run.png.meta": {
+      "time": 1740216921730.0168
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_death.json.meta": {
+      "time": 1740216921691.9153
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\2legs\\2legs_run_up.png.meta": {
+      "time": 1740216921752.9507
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_down.json.meta": {
+      "time": 1740216921723.0022
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run.png.meta": {
+      "time": 1740216921758.113
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_up.json.meta": {
+      "time": 1740216921781.8403
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_death.png.meta": {
+      "time": 1740216921801.761
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper death.json.meta": {
+      "time": 1740216921803.1487
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_down.png.meta": {
+      "time": 1740216921905.5923
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\4legs\\4legs_run_up.png.meta": {
+      "time": 1740216921944.4343
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_down.json.meta": {
+      "time": 1740216921887.1423
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_up.json.meta": {
+      "time": 1740216921923.961
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper death.png.meta": {
+      "time": 1740216922001.97
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper indicator.json.meta": {
+      "time": 1740216921985.2253
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_down.png.meta": {
+      "time": 1740216922005.9705
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper jump.json.meta": {
+      "time": 1740216922080.6895
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper idle_up.png.meta": {
+      "time": 1740216922194.0142
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper run_down.json.meta": {
+      "time": 1740216922089.66
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper indicator.png.meta": {
+      "time": 1740216922239.5618
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper run_up.json.meta": {
+      "time": 1740216922195.006
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper jump.png.meta": {
+      "time": 1740216922287.4392
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper slam.json.meta": {
+      "time": 1740216922237.5684
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper run_down.png.meta": {
+      "time": 1740216922335.5874
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper Throw_down.json.meta": {
+      "time": 1740216922317.4597
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper run_up.png.meta": {
+      "time": 1740216922374.5232
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper throw_up.json.meta": {
+      "time": 1740216922371.8013
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper Throw_down.png.meta": {
+      "time": 1740216922449.1575
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper slam.png.meta": {
+      "time": 1740216922444.7986
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_death.json.meta": {
+      "time": 1740216922421.265
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_down.json.meta": {
+      "time": 1740216922463.6245
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\Dusk boss\\Dusk Jumper throw_up.png.meta": {
+      "time": 1740216922484.556
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Indicator Sprite Sheet 21x10.png.meta": {
+      "time": 1740223838546.748
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_hit.json.meta": {
+      "time": 1740216922473.5923
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_death.png.meta": {
+      "time": 1740216922509.4717
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_down.png.meta": {
+      "time": 1740216922546.4272
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_idel.json.meta": {
+      "time": 1740216922498.5085
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_hit.png.meta": {
+      "time": 1740216922558.3901
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_move.json.meta": {
+      "time": 1740216922524.5012
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_up.json.meta": {
+      "time": 1740216922552.4111
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_idel.png.meta": {
+      "time": 1740222063741.8652
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_move.png.meta": {
+      "time": 1740216922577.8357
+    },
+    "C:\\Users\\user\\poker\\assets\\sprites\\player\\Player_up.png.meta": {
+      "time": 1740216922603.1472
+    }
+  },
+  "missing": {
+    "683d1ae1-2ce6-408e-a6df-df2a1886c7eb": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprites",
+      "time": 1740216833299.257,
+      "removeTime": 1740216930368
+    },
+    "66b11369-6c86-4120-8ae5-2cfab332552a": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite",
+      "time": 1740216921262.496,
+      "removeTime": 1740216933067
+    },
+    "fa19f0d0-c0b4-42bd-8164-b549467f7c6a": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\2legs",
+      "time": 1740216921274.4702,
+      "removeTime": 1740216933068
+    },
+    "37515fc4-e6c4-4820-9fbd-f160c91dd5d6": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\4legs",
+      "time": 1740216921298.567,
+      "removeTime": 1740216933068
+    },
+    "a361cc11-c2bf-4e3b-aa55-5b7bde43e25c": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss",
+      "time": 1740216921348.4033,
+      "removeTime": 1740216933068
+    },
+    "1172a8a2-b8c9-4b38-b0ea-91721b805c03": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player",
+      "time": 1740216921383.793,
+      "removeTime": 1740216933069
+    },
+    "2ea19b4f-f80e-421c-b846-d98a1b1d4edb": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk Bomb.json",
+      "time": 1740104266939.8762,
+      "removeTime": 1740216933069
+    },
+    "ea232b21-9fd0-45d9-b046-8463cafe1565": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk Bomb.png",
+      "time": 1740104266938.3513,
+      "removeTime": 1740216933070
+    },
+    "da4c0836-a2f3-4ae5-b4d3-8c8cd1363882": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk explode.json",
+      "time": 1740104318859.2778,
+      "removeTime": 1740216933071
+    },
+    "3f06ba47-7add-477f-9d70-6c9bc51d193f": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk explode.png",
+      "time": 1740104318842.0781,
+      "removeTime": 1740216933071
+    },
+    "c07a65ba-d7d7-48c0-ac36-feb0eeaf5c86": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\guns.json",
+      "time": 1740058734993.066,
+      "removeTime": 1740216933072
+    },
+    "57232d48-bef0-41ad-8749-9a3fac9957e5": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\guns.png",
+      "time": 1740058734977.413,
+      "removeTime": 1740216933072
+    },
+    "eb1c5449-3a7b-427b-aff4-03708b1ed78e": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\2legs\\2legs_death.json",
+      "time": 1740016811925.157,
+      "removeTime": 1740216933072
+    },
+    "8bfdb586-a06e-49fa-9076-dc3e35b61733": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\2legs\\2legs_death.png",
+      "time": 1740016811910.6567,
+      "removeTime": 1740216933073
+    },
+    "02f7d4e0-6b85-41d2-a8b9-9b34a7073e82": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\2legs\\2legs_run.json",
+      "time": 1740016841175.9204,
+      "removeTime": 1740216933073
+    },
+    "71e46c90-08b2-4cd0-940d-42625b59cc88": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\2legs\\2legs_run.png",
+      "time": 1740016841162.282,
+      "removeTime": 1740216933073
+    },
+    "fef0ba94-bb56-4519-a09f-3c9a2e7bad66": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\2legs\\2legs_run_up.json",
+      "time": 1740016871027.0479,
+      "removeTime": 1740216933074
+    },
+    "2959a415-1cc9-47bd-ab5f-fb0156266203": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\2legs\\2legs_run_up.png",
+      "time": 1740016871013.2295,
+      "removeTime": 1740216933074
+    },
+    "20edb767-9220-4f3a-a003-980624694092": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\4legs\\4legs_run.json",
+      "time": 1740014440831.1907,
+      "removeTime": 1740216933074
+    },
+    "e4181a99-5c89-457b-afc8-e17dc87ce264": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\4legs\\4legs_run.png",
+      "time": 1740014440812.4841,
+      "removeTime": 1740216933075
+    },
+    "b7b48e7a-8ba3-4ceb-b7cb-143066da2d2b": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\4legs\\4legs_run_death.json",
+      "time": 1740014728330.2776,
+      "removeTime": 1740216933075
+    },
+    "920ad19e-ab19-4189-9375-22e10cf52331": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\4legs\\4legs_run_death.png",
+      "time": 1740014728329.2744,
+      "removeTime": 1740216933076
+    },
+    "b726f2b2-8ae7-4231-80db-0055cdca7bac": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\4legs\\4legs_run_down.json",
+      "time": 1740014484730.777,
+      "removeTime": 1740216933076
+    },
+    "d1334f2f-0f95-4e77-85e3-463425739f75": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\4legs\\4legs_run_down.png",
+      "time": 1740014484714.3118,
+      "removeTime": 1740216933077
+    },
+    "93942829-248c-444e-abf7-25fadb596001": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\4legs\\4legs_run_up.json",
+      "time": 1740014460452.9631,
+      "removeTime": 1740216933077
+    },
+    "9e9224ac-285c-46d9-bab6-8964444dbaa6": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\4legs\\4legs_run_up.png",
+      "time": 1740014460437.8096,
+      "removeTime": 1740216933078
+    },
+    "b6cfbfbc-1a29-4dde-907f-d944eb326da6": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper death.json",
+      "time": 1740105307188.5203,
+      "removeTime": 1740216933078
+    },
+    "24f20c08-7b0d-495d-b49d-52f6b96b9d7d": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper death.png",
+      "time": 1740105307187.5205,
+      "removeTime": 1740216933079
+    },
+    "ea40c2c5-717c-428d-b1b9-387f80844d34": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper idle_down.json",
+      "time": 1740105293434.8965,
+      "removeTime": 1740216933079
+    },
+    "de604edd-af79-43f4-b728-57bdbe8d8d9a": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper idle_down.png",
+      "time": 1740105293420.0593,
+      "removeTime": 1740216933079
+    },
+    "f928f1b6-61c0-43cd-bd2e-ffe558545ac8": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper idle_up.json",
+      "time": 1740105149403.2227,
+      "removeTime": 1740216933080
+    },
+    "1bd1d994-4da1-49db-b1b3-62bd5bb4ee37": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper idle_up.png",
+      "time": 1740105149402.2263,
+      "removeTime": 1740216933080
+    },
+    "addd3463-ed05-46db-a361-16b16c0ca835": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper indicator.json",
+      "time": 1740105227521.9712,
+      "removeTime": 1740216933080
+    },
+    "87306d95-f9f1-435d-9d22-d5dff608629a": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper indicator.png",
+      "time": 1740105227520.9756,
+      "removeTime": 1740216933081
+    },
+    "6beb0ac2-ed3f-4ac6-a13c-49395bc57f87": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper jump.json",
+      "time": 1740105243970.735,
+      "removeTime": 1740216933081
+    },
+    "59ba1d4f-9360-461c-bcc3-b40f9d58c83b": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper jump.png",
+      "time": 1740105243954.7332,
+      "removeTime": 1740216933081
+    },
+    "6dbdc05c-acad-4d9a-b7d4-325becd1a5cc": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper run_down.json",
+      "time": 1740105171544.3557,
+      "removeTime": 1740216933082
+    },
+    "da4c0a49-279a-41c6-8b49-d03a95f607fd": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper run_down.png",
+      "time": 1740105171542.0857,
+      "removeTime": 1740216933083
+    },
+    "aadad50e-f859-40d6-9927-2f3ea62eafdf": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper run_up.json",
+      "time": 1740105127562.5508,
+      "removeTime": 1740216933083
+    },
+    "57a1848a-5102-412f-bf85-6a044b6e36ef": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper run_up.png",
+      "time": 1740105127549.4827,
+      "removeTime": 1740216933084
+    },
+    "a590b4c3-34ca-4923-9353-c77867a7370d": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper slam.json",
+      "time": 1740105208348.0596,
+      "removeTime": 1740216933084
+    },
+    "63c95935-c1df-4f24-9faf-9ee9d9d9fa77": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper slam.png",
+      "time": 1740105208334.3723,
+      "removeTime": 1740216933084
+    },
+    "e8991854-2df1-42ef-ad70-8b2fbc7c7e81": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper Throw_down.json",
+      "time": 1740105271155.9714,
+      "removeTime": 1740216933085
+    },
+    "3f8c5f03-ab1e-42d7-84df-8f7b826031cc": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper Throw_down.png",
+      "time": 1740105271141.6484,
+      "removeTime": 1740216933085
+    },
+    "ae035927-8f18-457e-ac0e-a91529cb22ba": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper throw_up.json",
+      "time": 1740105072413.702,
+      "removeTime": 1740216933085
+    },
+    "293c1b14-363e-4819-8869-d674ecbd3760": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\Dusk boss\\Dusk Jumper throw_up.png",
+      "time": 1740105072399.3467,
+      "removeTime": 1740216933086
+    },
+    "a1bad44a-4228-4cb6-8e23-ce21ef195a21": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_death.json",
+      "time": 1740052356073.2422,
+      "removeTime": 1740216933086
+    },
+    "3bbc1aea-23c3-4f71-8203-9befc11b2f08": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_death.png",
+      "time": 1740052356071.0537,
+      "removeTime": 1740216933086
+    },
+    "949f97c4-e4d6-45f4-a667-961e072cf6d0": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_down.json",
+      "time": 1740052222767.2637,
+      "removeTime": 1740216933086
+    },
+    "b59da4c0-0604-4134-8c0e-398f765444c5": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_down.png",
+      "time": 1740052222765.175,
+      "removeTime": 1740216933087
+    },
+    "d121fe38-b3a2-45cc-8364-1a1cba0c9774": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_hit.json",
+      "time": 1740052327055.7085,
+      "removeTime": 1740216933087
+    },
+    "88081e1f-331a-4d10-b218-08738847169d": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_hit.png",
+      "time": 1740052327053.594,
+      "removeTime": 1740216933088
+    },
+    "4023b1a4-a258-42f0-827b-c252ca72d1ae": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_idel.json",
+      "time": 1740052262822.4834,
+      "removeTime": 1740216933089
+    },
+    "15e78c3b-e386-4089-a5c2-71ba5279ecea": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_idel.png",
+      "time": 1740052262821.2292,
+      "removeTime": 1740216933089
+    },
+    "6c81b69f-46c5-4766-80ab-ec76769eb706": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_move.json",
+      "time": 1740052189102.1472,
+      "removeTime": 1740216933089
+    },
+    "74d6a377-37c2-45ee-a36e-4670be1e75fc": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_move.png",
+      "time": 1740052189087.0122,
+      "removeTime": 1740216933090
+    },
+    "e3a3fee2-0060-4288-b444-17ef38926263": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_up.json",
+      "time": 1740052291409.0178,
+      "removeTime": 1740216933090
+    },
+    "ec45a93b-401c-412b-8492-d72fcbb794f8": {
+      "path": "C:\\Users\\user\\NewProject\\assets\\sprite\\player\\Player_up.png",
+      "time": 1740052291395.469,
+      "removeTime": 1740216933090
+    }
+  }
+}

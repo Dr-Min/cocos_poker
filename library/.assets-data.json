@@ -1,0 +1,966 @@
+{
+  "06de40ed-6803-4dd7-94e7-0b218c5c406f": {
+    "url": "db://assets/scenes",
+    "value": {},
+    "versionCode": 0
+  },
+  "3cf596e2-bc77-4a8a-9491-0e5d96a8905f": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 0
+  },
+  "683d1ae1-2ce6-408e-a6df-df2a1886c7eb": {
+    "url": "db://assets/sprites",
+    "value": {},
+    "versionCode": 0
+  },
+  "44f7c561-f3a5-459c-b406-f3fe67dd482b": {
+    "url": "db://assets/pefabs",
+    "value": {},
+    "versionCode": 0
+  },
+  "40efb877-26ac-41c6-bff6-783d7aad3f23": {
+    "url": "db://assets/audio",
+    "value": {},
+    "versionCode": 0
+  },
+  "66b11369-6c86-4120-8ae5-2cfab332552a": {
+    "url": "db://assets/sprites",
+    "value": {},
+    "versionCode": 0
+  },
+  "fa19f0d0-c0b4-42bd-8164-b549467f7c6a": {
+    "url": "db://assets/sprites/2legs",
+    "value": {},
+    "versionCode": 0
+  },
+  "37515fc4-e6c4-4820-9fbd-f160c91dd5d6": {
+    "url": "db://assets/sprites/4legs",
+    "value": {},
+    "versionCode": 0
+  },
+  "a361cc11-c2bf-4e3b-aa55-5b7bde43e25c": {
+    "url": "db://assets/sprites/Dusk boss",
+    "value": {},
+    "versionCode": 0
+  },
+  "1172a8a2-b8c9-4b38-b0ea-91721b805c03": {
+    "url": "db://assets/sprites/player",
+    "value": {},
+    "versionCode": 0
+  },
+  "2ea19b4f-f80e-421c-b846-d98a1b1d4edb": {
+    "url": "db://assets/sprites/Dusk Bomb.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "ea232b21-9fd0-45d9-b046-8463cafe1565": {
+    "url": "db://assets/sprites/Dusk Bomb.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "da4c0836-a2f3-4ae5-b4d3-8c8cd1363882": {
+    "url": "db://assets/sprites/Dusk explode.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3f06ba47-7add-477f-9d70-6c9bc51d193f": {
+    "url": "db://assets/sprites/Dusk explode.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "c07a65ba-d7d7-48c0-ac36-feb0eeaf5c86": {
+    "url": "db://assets/sprites/guns.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "57232d48-bef0-41ad-8749-9a3fac9957e5": {
+    "url": "db://assets/sprites/guns.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "eb1c5449-3a7b-427b-aff4-03708b1ed78e": {
+    "url": "db://assets/sprites/2legs/2legs_death.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "8bfdb586-a06e-49fa-9076-dc3e35b61733": {
+    "url": "db://assets/sprites/2legs/2legs_death.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "02f7d4e0-6b85-41d2-a8b9-9b34a7073e82": {
+    "url": "db://assets/sprites/2legs/2legs_run.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "ea232b21-9fd0-45d9-b046-8463cafe1565@6c48a": {
+    "url": "db://assets/sprites/Dusk Bomb.png@6c48a",
+    "value": {
+      "depends": [
+        "ea232b21-9fd0-45d9-b046-8463cafe1565"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3f06ba47-7add-477f-9d70-6c9bc51d193f@6c48a": {
+    "url": "db://assets/sprites/Dusk explode.png@6c48a",
+    "value": {
+      "depends": [
+        "3f06ba47-7add-477f-9d70-6c9bc51d193f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ea232b21-9fd0-45d9-b046-8463cafe1565@f9941": {
+    "url": "db://assets/sprites/Dusk Bomb.png@f9941",
+    "value": {
+      "depends": [
+        "ea232b21-9fd0-45d9-b046-8463cafe1565@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "71e46c90-08b2-4cd0-940d-42625b59cc88": {
+    "url": "db://assets/sprites/2legs/2legs_run.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "fef0ba94-bb56-4519-a09f-3c9a2e7bad66": {
+    "url": "db://assets/sprites/2legs/2legs_run_up.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "57232d48-bef0-41ad-8749-9a3fac9957e5@6c48a": {
+    "url": "db://assets/sprites/guns.png@6c48a",
+    "value": {
+      "depends": [
+        "57232d48-bef0-41ad-8749-9a3fac9957e5"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8bfdb586-a06e-49fa-9076-dc3e35b61733@6c48a": {
+    "url": "db://assets/sprites/2legs/2legs_death.png@6c48a",
+    "value": {
+      "depends": [
+        "8bfdb586-a06e-49fa-9076-dc3e35b61733"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3f06ba47-7add-477f-9d70-6c9bc51d193f@f9941": {
+    "url": "db://assets/sprites/Dusk explode.png@f9941",
+    "value": {
+      "depends": [
+        "3f06ba47-7add-477f-9d70-6c9bc51d193f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "2959a415-1cc9-47bd-ab5f-fb0156266203": {
+    "url": "db://assets/sprites/2legs/2legs_run_up.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "20edb767-9220-4f3a-a003-980624694092": {
+    "url": "db://assets/sprites/4legs/4legs_run.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "57232d48-bef0-41ad-8749-9a3fac9957e5@f9941": {
+    "url": "db://assets/sprites/guns.png@f9941",
+    "value": {
+      "depends": [
+        "57232d48-bef0-41ad-8749-9a3fac9957e5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e4181a99-5c89-457b-afc8-e17dc87ce264": {
+    "url": "db://assets/sprites/4legs/4legs_run.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "8bfdb586-a06e-49fa-9076-dc3e35b61733@f9941": {
+    "url": "db://assets/sprites/2legs/2legs_death.png@f9941",
+    "value": {
+      "depends": [
+        "8bfdb586-a06e-49fa-9076-dc3e35b61733@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b7b48e7a-8ba3-4ceb-b7cb-143066da2d2b": {
+    "url": "db://assets/sprites/4legs/4legs_run_death.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "920ad19e-ab19-4189-9375-22e10cf52331": {
+    "url": "db://assets/sprites/4legs/4legs_run_death.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "b726f2b2-8ae7-4231-80db-0055cdca7bac": {
+    "url": "db://assets/sprites/4legs/4legs_run_down.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "71e46c90-08b2-4cd0-940d-42625b59cc88@6c48a": {
+    "url": "db://assets/sprites/2legs/2legs_run.png@6c48a",
+    "value": {
+      "depends": [
+        "71e46c90-08b2-4cd0-940d-42625b59cc88"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d1334f2f-0f95-4e77-85e3-463425739f75": {
+    "url": "db://assets/sprites/4legs/4legs_run_down.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "2959a415-1cc9-47bd-ab5f-fb0156266203@6c48a": {
+    "url": "db://assets/sprites/2legs/2legs_run_up.png@6c48a",
+    "value": {
+      "depends": [
+        "2959a415-1cc9-47bd-ab5f-fb0156266203"
+      ]
+    },
+    "versionCode": 0
+  },
+  "71e46c90-08b2-4cd0-940d-42625b59cc88@f9941": {
+    "url": "db://assets/sprites/2legs/2legs_run.png@f9941",
+    "value": {
+      "depends": [
+        "71e46c90-08b2-4cd0-940d-42625b59cc88@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e4181a99-5c89-457b-afc8-e17dc87ce264@6c48a": {
+    "url": "db://assets/sprites/4legs/4legs_run.png@6c48a",
+    "value": {
+      "depends": [
+        "e4181a99-5c89-457b-afc8-e17dc87ce264"
+      ]
+    },
+    "versionCode": 0
+  },
+  "93942829-248c-444e-abf7-25fadb596001": {
+    "url": "db://assets/sprites/4legs/4legs_run_up.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "2959a415-1cc9-47bd-ab5f-fb0156266203@f9941": {
+    "url": "db://assets/sprites/2legs/2legs_run_up.png@f9941",
+    "value": {
+      "depends": [
+        "2959a415-1cc9-47bd-ab5f-fb0156266203@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e4181a99-5c89-457b-afc8-e17dc87ce264@f9941": {
+    "url": "db://assets/sprites/4legs/4legs_run.png@f9941",
+    "value": {
+      "depends": [
+        "e4181a99-5c89-457b-afc8-e17dc87ce264@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9e9224ac-285c-46d9-bab6-8964444dbaa6": {
+    "url": "db://assets/sprites/4legs/4legs_run_up.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "b6cfbfbc-1a29-4dde-907f-d944eb326da6": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper death.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "920ad19e-ab19-4189-9375-22e10cf52331@6c48a": {
+    "url": "db://assets/sprites/4legs/4legs_run_death.png@6c48a",
+    "value": {
+      "depends": [
+        "920ad19e-ab19-4189-9375-22e10cf52331"
+      ]
+    },
+    "versionCode": 0
+  },
+  "24f20c08-7b0d-495d-b49d-52f6b96b9d7d": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper death.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "920ad19e-ab19-4189-9375-22e10cf52331@f9941": {
+    "url": "db://assets/sprites/4legs/4legs_run_death.png@f9941",
+    "value": {
+      "depends": [
+        "920ad19e-ab19-4189-9375-22e10cf52331@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ea40c2c5-717c-428d-b1b9-387f80844d34": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper idle_down.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "de604edd-af79-43f4-b728-57bdbe8d8d9a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper idle_down.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d1334f2f-0f95-4e77-85e3-463425739f75@6c48a": {
+    "url": "db://assets/sprites/4legs/4legs_run_down.png@6c48a",
+    "value": {
+      "depends": [
+        "d1334f2f-0f95-4e77-85e3-463425739f75"
+      ]
+    },
+    "versionCode": 0
+  },
+  "f928f1b6-61c0-43cd-bd2e-ffe558545ac8": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper idle_up.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "9e9224ac-285c-46d9-bab6-8964444dbaa6@6c48a": {
+    "url": "db://assets/sprites/4legs/4legs_run_up.png@6c48a",
+    "value": {
+      "depends": [
+        "9e9224ac-285c-46d9-bab6-8964444dbaa6"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d1334f2f-0f95-4e77-85e3-463425739f75@f9941": {
+    "url": "db://assets/sprites/4legs/4legs_run_down.png@f9941",
+    "value": {
+      "depends": [
+        "d1334f2f-0f95-4e77-85e3-463425739f75@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1bd1d994-4da1-49db-b1b3-62bd5bb4ee37": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper idle_up.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "addd3463-ed05-46db-a361-16b16c0ca835": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper indicator.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "24f20c08-7b0d-495d-b49d-52f6b96b9d7d@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper death.png@6c48a",
+    "value": {
+      "depends": [
+        "24f20c08-7b0d-495d-b49d-52f6b96b9d7d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "9e9224ac-285c-46d9-bab6-8964444dbaa6@f9941": {
+    "url": "db://assets/sprites/4legs/4legs_run_up.png@f9941",
+    "value": {
+      "depends": [
+        "9e9224ac-285c-46d9-bab6-8964444dbaa6@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "87306d95-f9f1-435d-9d22-d5dff608629a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper indicator.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "de604edd-af79-43f4-b728-57bdbe8d8d9a@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper idle_down.png@6c48a",
+    "value": {
+      "depends": [
+        "de604edd-af79-43f4-b728-57bdbe8d8d9a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6beb0ac2-ed3f-4ac6-a13c-49395bc57f87": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper jump.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "24f20c08-7b0d-495d-b49d-52f6b96b9d7d@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper death.png@f9941",
+    "value": {
+      "depends": [
+        "24f20c08-7b0d-495d-b49d-52f6b96b9d7d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "59ba1d4f-9360-461c-bcc3-b40f9d58c83b": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper jump.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "de604edd-af79-43f4-b728-57bdbe8d8d9a@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper idle_down.png@f9941",
+    "value": {
+      "depends": [
+        "de604edd-af79-43f4-b728-57bdbe8d8d9a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6dbdc05c-acad-4d9a-b7d4-325becd1a5cc": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper run_down.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "da4c0a49-279a-41c6-8b49-d03a95f607fd": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper run_down.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "aadad50e-f859-40d6-9927-2f3ea62eafdf": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper run_up.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1bd1d994-4da1-49db-b1b3-62bd5bb4ee37@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper idle_up.png@6c48a",
+    "value": {
+      "depends": [
+        "1bd1d994-4da1-49db-b1b3-62bd5bb4ee37"
+      ]
+    },
+    "versionCode": 0
+  },
+  "1bd1d994-4da1-49db-b1b3-62bd5bb4ee37@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper idle_up.png@f9941",
+    "value": {
+      "depends": [
+        "1bd1d994-4da1-49db-b1b3-62bd5bb4ee37@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "57a1848a-5102-412f-bf85-6a044b6e36ef": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper run_up.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "a590b4c3-34ca-4923-9353-c77867a7370d": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper slam.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "87306d95-f9f1-435d-9d22-d5dff608629a@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper indicator.png@6c48a",
+    "value": {
+      "depends": [
+        "87306d95-f9f1-435d-9d22-d5dff608629a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "59ba1d4f-9360-461c-bcc3-b40f9d58c83b@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper jump.png@6c48a",
+    "value": {
+      "depends": [
+        "59ba1d4f-9360-461c-bcc3-b40f9d58c83b"
+      ]
+    },
+    "versionCode": 0
+  },
+  "87306d95-f9f1-435d-9d22-d5dff608629a@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper indicator.png@f9941",
+    "value": {
+      "depends": [
+        "87306d95-f9f1-435d-9d22-d5dff608629a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "63c95935-c1df-4f24-9faf-9ee9d9d9fa77": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper slam.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e8991854-2df1-42ef-ad70-8b2fbc7c7e81": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper Throw_down.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "da4c0a49-279a-41c6-8b49-d03a95f607fd@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper run_down.png@6c48a",
+    "value": {
+      "depends": [
+        "da4c0a49-279a-41c6-8b49-d03a95f607fd"
+      ]
+    },
+    "versionCode": 0
+  },
+  "59ba1d4f-9360-461c-bcc3-b40f9d58c83b@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper jump.png@f9941",
+    "value": {
+      "depends": [
+        "59ba1d4f-9360-461c-bcc3-b40f9d58c83b@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3f8c5f03-ab1e-42d7-84df-8f7b826031cc": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper Throw_down.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "ae035927-8f18-457e-ac0e-a91529cb22ba": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper throw_up.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "da4c0a49-279a-41c6-8b49-d03a95f607fd@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper run_down.png@f9941",
+    "value": {
+      "depends": [
+        "da4c0a49-279a-41c6-8b49-d03a95f607fd@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "293c1b14-363e-4819-8869-d674ecbd3760": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper throw_up.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "57a1848a-5102-412f-bf85-6a044b6e36ef@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper run_up.png@6c48a",
+    "value": {
+      "depends": [
+        "57a1848a-5102-412f-bf85-6a044b6e36ef"
+      ]
+    },
+    "versionCode": 0
+  },
+  "57a1848a-5102-412f-bf85-6a044b6e36ef@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper run_up.png@f9941",
+    "value": {
+      "depends": [
+        "57a1848a-5102-412f-bf85-6a044b6e36ef@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a1bad44a-4228-4cb6-8e23-ce21ef195a21": {
+    "url": "db://assets/sprites/player/Player_death.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3bbc1aea-23c3-4f71-8203-9befc11b2f08": {
+    "url": "db://assets/sprites/player/Player_death.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "63c95935-c1df-4f24-9faf-9ee9d9d9fa77@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper slam.png@6c48a",
+    "value": {
+      "depends": [
+        "63c95935-c1df-4f24-9faf-9ee9d9d9fa77"
+      ]
+    },
+    "versionCode": 0
+  },
+  "3f8c5f03-ab1e-42d7-84df-8f7b826031cc@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper Throw_down.png@6c48a",
+    "value": {
+      "depends": [
+        "3f8c5f03-ab1e-42d7-84df-8f7b826031cc"
+      ]
+    },
+    "versionCode": 0
+  },
+  "949f97c4-e4d6-45f4-a667-961e072cf6d0": {
+    "url": "db://assets/sprites/player/Player_down.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "63c95935-c1df-4f24-9faf-9ee9d9d9fa77@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper slam.png@f9941",
+    "value": {
+      "depends": [
+        "63c95935-c1df-4f24-9faf-9ee9d9d9fa77@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b59da4c0-0604-4134-8c0e-398f765444c5": {
+    "url": "db://assets/sprites/player/Player_down.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3f8c5f03-ab1e-42d7-84df-8f7b826031cc@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper Throw_down.png@f9941",
+    "value": {
+      "depends": [
+        "3f8c5f03-ab1e-42d7-84df-8f7b826031cc@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d121fe38-b3a2-45cc-8364-1a1cba0c9774": {
+    "url": "db://assets/sprites/player/Player_hit.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "293c1b14-363e-4819-8869-d674ecbd3760@6c48a": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper throw_up.png@6c48a",
+    "value": {
+      "depends": [
+        "293c1b14-363e-4819-8869-d674ecbd3760"
+      ]
+    },
+    "versionCode": 0
+  },
+  "88081e1f-331a-4d10-b218-08738847169d": {
+    "url": "db://assets/sprites/player/Player_hit.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "4023b1a4-a258-42f0-827b-c252ca72d1ae": {
+    "url": "db://assets/sprites/player/Player_idel.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3bbc1aea-23c3-4f71-8203-9befc11b2f08@6c48a": {
+    "url": "db://assets/sprites/player/Player_death.png@6c48a",
+    "value": {
+      "depends": [
+        "3bbc1aea-23c3-4f71-8203-9befc11b2f08"
+      ]
+    },
+    "versionCode": 0
+  },
+  "293c1b14-363e-4819-8869-d674ecbd3760@f9941": {
+    "url": "db://assets/sprites/Dusk boss/Dusk Jumper throw_up.png@f9941",
+    "value": {
+      "depends": [
+        "293c1b14-363e-4819-8869-d674ecbd3760@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "15e78c3b-e386-4089-a5c2-71ba5279ecea": {
+    "url": "db://assets/sprites/player/Player_idel.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "6c81b69f-46c5-4766-80ab-ec76769eb706": {
+    "url": "db://assets/sprites/player/Player_move.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "3bbc1aea-23c3-4f71-8203-9befc11b2f08@f9941": {
+    "url": "db://assets/sprites/player/Player_death.png@f9941",
+    "value": {
+      "depends": [
+        "3bbc1aea-23c3-4f71-8203-9befc11b2f08@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "74d6a377-37c2-45ee-a36e-4670be1e75fc": {
+    "url": "db://assets/sprites/player/Player_move.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "b59da4c0-0604-4134-8c0e-398f765444c5@6c48a": {
+    "url": "db://assets/sprites/player/Player_down.png@6c48a",
+    "value": {
+      "depends": [
+        "b59da4c0-0604-4134-8c0e-398f765444c5"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e3a3fee2-0060-4288-b444-17ef38926263": {
+    "url": "db://assets/sprites/player/Player_up.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "88081e1f-331a-4d10-b218-08738847169d@6c48a": {
+    "url": "db://assets/sprites/player/Player_hit.png@6c48a",
+    "value": {
+      "depends": [
+        "88081e1f-331a-4d10-b218-08738847169d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b59da4c0-0604-4134-8c0e-398f765444c5@f9941": {
+    "url": "db://assets/sprites/player/Player_down.png@f9941",
+    "value": {
+      "depends": [
+        "b59da4c0-0604-4134-8c0e-398f765444c5@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ec45a93b-401c-412b-8492-d72fcbb794f8": {
+    "url": "db://assets/sprites/player/Player_up.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "15e78c3b-e386-4089-a5c2-71ba5279ecea@6c48a": {
+    "url": "db://assets/sprites/player/Player_idel.png@6c48a",
+    "value": {
+      "depends": [
+        "15e78c3b-e386-4089-a5c2-71ba5279ecea"
+      ]
+    },
+    "versionCode": 0
+  },
+  "88081e1f-331a-4d10-b218-08738847169d@f9941": {
+    "url": "db://assets/sprites/player/Player_hit.png@f9941",
+    "value": {
+      "depends": [
+        "88081e1f-331a-4d10-b218-08738847169d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "74d6a377-37c2-45ee-a36e-4670be1e75fc@6c48a": {
+    "url": "db://assets/sprites/player/Player_move.png@6c48a",
+    "value": {
+      "depends": [
+        "74d6a377-37c2-45ee-a36e-4670be1e75fc"
+      ]
+    },
+    "versionCode": 0
+  },
+  "15e78c3b-e386-4089-a5c2-71ba5279ecea@f9941": {
+    "url": "db://assets/sprites/player/Player_idel.png@f9941",
+    "value": {
+      "depends": [
+        "15e78c3b-e386-4089-a5c2-71ba5279ecea@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "74d6a377-37c2-45ee-a36e-4670be1e75fc@f9941": {
+    "url": "db://assets/sprites/player/Player_move.png@f9941",
+    "value": {
+      "depends": [
+        "74d6a377-37c2-45ee-a36e-4670be1e75fc@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ec45a93b-401c-412b-8492-d72fcbb794f8@6c48a": {
+    "url": "db://assets/sprites/player/Player_up.png@6c48a",
+    "value": {
+      "depends": [
+        "ec45a93b-401c-412b-8492-d72fcbb794f8"
+      ]
+    },
+    "versionCode": 0
+  },
+  "ec45a93b-401c-412b-8492-d72fcbb794f8@f9941": {
+    "url": "db://assets/sprites/player/Player_up.png@f9941",
+    "value": {
+      "depends": [
+        "ec45a93b-401c-412b-8492-d72fcbb794f8@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b1533de1-12c1-4f0c-8a17-8fc5ae485d26": {
+    "url": "db://assets/scripts/GameState.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "3a2c52d2-7752-42bd-967c-204543200262": {
+    "url": "db://assets/scripts/GameManager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "2db80b0b-9443-46a9-9287-7d2f495a7fb0": {
+    "url": "db://assets/scripts/PlayerController.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "e015112b-02ac-4489-97be-1bc8e5a5d602": {
+    "url": "db://assets/animation",
+    "value": {},
+    "versionCode": 0
+  },
+  "904588bd-4ecf-46a3-a97e-49f44939ca6d": {
+    "url": "db://assets/animation/player_idle.anim",
+    "value": {
+      "depends": [
+        "15e78c3b-e386-4089-a5c2-71ba5279ecea@f9941"
+      ]
+    },
+    "versionCode": 0
+  },
+  "fcc500ed-d194-48ba-ab3c-7649ed9d5e85": {
+    "url": "db://assets/scene.scene",
+    "value": {
+      "depends": [
+        "fcc500ed-d194-48ba-ab3c-7649ed9d5e85",
+        "15e78c3b-e386-4089-a5c2-71ba5279ecea@f9941",
+        "904588bd-4ecf-46a3-a97e-49f44939ca6d"
+      ],
+      "dependScripts": [
+        "2db80b0b-9443-46a9-9287-7d2f495a7fb0"
+      ]
+    },
+    "versionCode": 0
+  },
+  "89a47609-7333-4b3b-887b-b7e5eab66e61": {
+    "url": "db://assets/sprites/auto-atlas.pac",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "c4d94c95-d7b0-42ea-b7bd-e657210374a4": {
+    "url": "db://assets/animation/animation.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "47d85baa-e6e3-454b-bac2-5861936695f0": {
+    "url": "db://assets/sprites/player/Indicator Sprite Sheet 21x10.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "47d85baa-e6e3-454b-bac2-5861936695f0@6c48a": {
+    "url": "db://assets/sprites/player/Indicator Sprite Sheet 21x10.png@6c48a",
+    "value": {
+      "depends": [
+        "47d85baa-e6e3-454b-bac2-5861936695f0"
+      ]
+    },
+    "versionCode": 0
+  },
+  "47d85baa-e6e3-454b-bac2-5861936695f0@f9941": {
+    "url": "db://assets/sprites/player/Indicator Sprite Sheet 21x10.png@f9941",
+    "value": {
+      "depends": [
+        "47d85baa-e6e3-454b-bac2-5861936695f0@6c48a"
+      ]
+    },
+    "versionCode": 0
+  }
+}

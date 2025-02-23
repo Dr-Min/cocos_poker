@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Indicator Sprite Sheet 21x10",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 187,
+      "height": 10
+    },
+    "offset": {
+      "x": -1,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 189,
+      "height": 10
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -93.5,
+        -5,
+        0,
+        93.5,
+        -5,
+        0,
+        -93.5,
+        5,
+        0,
+        93.5,
+        5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        10,
+        187,
+        10,
+        0,
+        0,
+        187,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        0.9894179894179894,
+        0,
+        0,
+        1,
+        0.9894179894179894,
+        1
+      ],
+      "minPos": {
+        "x": -93.5,
+        "y": -5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 93.5,
+        "y": 5,
+        "z": 0
+      }
+    },
+    "texture": "47d85baa-e6e3-454b-bac2-5861936695f0@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
